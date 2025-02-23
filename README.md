@@ -31,10 +31,4 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekheer&theme=default&show_icons=true&locale=en&layout=compact"/> 
 </p>
 
-### Random quote 
 
- <img src="https://github-readme-quotes.herokuapp.com/quote?theme=dark"> 
-
-### Random Meme 
-
-<img src="https://random-memer.herokuapp.com/" width="100%">
